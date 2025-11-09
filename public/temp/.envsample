@@ -1,0 +1,7 @@
+ORT=8000
+MONGODB-URL=mongodb+srv://hassan285sajid:hassan123@cluster0.ce2ye4j.mongodb.net
+CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=chai-aur-code
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=chai-aur-backend
+REFRESH_TOKEN_EXPIRY=10d
